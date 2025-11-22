@@ -10,6 +10,9 @@ The Animal Wiki App is designed as an educational mobile interface where users c
 The UI emphasizes simplicity, readability, and visual appeal using high-quality animal images and a clean color palette.
 _ _ _
 
+
+<img width="176" height="377" alt="image" src="https://github.com/user-attachments/assets/2578e3e5-460d-4c5b-af2f-bcdf4c865f0b" />
+
 <img width="189" height="392" alt="image" src="https://github.com/user-attachments/assets/204ba39f-1dd9-43b4-83e5-5541121ae758" />
 
 <img width="177" height="385" alt="image" src="https://github.com/user-attachments/assets/7de89a53-9541-4277-a283-4876b60b567b" />
